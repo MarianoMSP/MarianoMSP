@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I’m currently learning FULL STACK and i love it!!!😍
+### I am actively developing my skills in data analysis.
 
 
 <!--
